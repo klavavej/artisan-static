@@ -16,8 +16,8 @@
         "sharer.js": "^0.4.2"
     },
     "dependencies": {
-        "jspdf": "^2.5.1",
-        "mailgun": "^0.5.0",
-        "mailgun-js": "^0.22.0"        
+        "jspdf": "latest",
+        "nodemailer": "latest",
+        "nodemailer-mailgun-transport": "latest"   
     }
 }
