@@ -29,7 +29,7 @@ const handler = async (event: HandlerEvent) => {
     from: process.env.MAILGUN_SENDER,
     to: destination,
     subject: "Your report is ready!",
-    text: "Details in attached report PDF",
+    text: "Details in attached report PDF yo",
     attachments: [
       {
         filename: `report-${new Date().toDateString()}.pdf`,
