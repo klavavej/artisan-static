@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "esModuleInterop": true,
+      "isolatedModules ": true
+    },
+    "$schema": "https://json.schemastore.org/tsconfig",
+    "display": "Recommended"
+  }

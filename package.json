@@ -14,5 +14,11 @@
         "sass": "^1.45.0",
         "sass-loader": "^12.4.0",
         "sharer.js": "^0.4.2"
+    },
+    "dependencies": {
+        "@netlify/functions": "^1.0.0",
+        "jspdf": "^2.5.1",
+        "mailgun": "^0.5.0",
+        "mailgun-js": "^0.22.0"        
     }
 }
