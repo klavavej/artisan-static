@@ -14,5 +14,10 @@
         "sass": "^1.45.0",
         "sass-loader": "^12.4.0",
         "sharer.js": "^0.4.2"
+    },
+    "dependencies": {
+        "jspdf": "latest",
+        "nodemailer": "latest",
+        "nodemailer-mailgun-transport": "latest"   
     }
 }
